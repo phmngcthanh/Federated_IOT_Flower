@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="#  BSD 3-clause License&#10;#  Copyright (c) 2022. Thanh Pham Ngoc &lt;phmngcthanh &lt;AT&gt;gmail.com&gt;&#10;#  All rights reserved.&#10;#  A copy of the license can be found at the LICENSE file, or the link https://github.com/phmngcthanh/jetson-net/blob/master/LICENSE&#10;&#10;# IOT Federated Learning guided by Assoc.Prof. Le Trung Quan#&#10;# This is Python part.#&#10;# 19520958  - Thanh Pham-Ngoc #&#10;# 19520262  - Pham Nguyen Viet Tan #&#10;" />
+    <option name="myName" value="bsd_3clause" />
+  </copyright>
+</component>

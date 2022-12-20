@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "code-flower"
+version = "0.1.0"
+description = ""
+authors = ["Thanh Pham Ngoc <19520958@gm.uit.edu.vn>"]
+readme = "README.md"
+packages = [{include = "code_flower"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flwr = "^1.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
